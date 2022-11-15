@@ -20,7 +20,7 @@ Clone the repo or download it.
 Go to the project folder and run
 
 ```sh
-$ npm install
+$ npm i
 ```
 
 And run your server running the following command in the root of the project:
@@ -34,5 +34,5 @@ Start the Tailwind CLI build process
 Run the CLI tool to scan your template files for classes and build your CSS.:
 
 ```sh
-$ npm run devcss
+$ npm run tw:css
 ```
